@@ -1,0 +1,6 @@
+org\schorn\samples\Reduce$TradeCollector.class
+org\schorn\samples\Reduce$TradeSummarizer.class
+org\schorn\samples\Reduce$GroupByKey.class
+org\schorn\samples\Reduce.class
+org\schorn\samples\Reduce$Trade.class
+org\schorn\samples\Reduce$TradeReport.class
