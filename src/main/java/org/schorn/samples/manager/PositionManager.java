@@ -9,6 +9,6 @@ package org.schorn.samples.manager;
  *
  * @author bschorn
  */
-public class OrderManager {
+public class PositionManager {
 
 }

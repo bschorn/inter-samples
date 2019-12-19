@@ -17,7 +17,7 @@ import org.schorn.system.trading.impl.TradeImpl;
  */
 public interface Activity {
 
-    public interface Trade {
+    public interface Trade extends Activity {
 
         static public Trade create(LocalDate date, Entity.Account account, Entity.Strategy strategy, Entity.Broker broker, Entity.Instrument instrument, Side side) {
             return new TradeImpl(date, account, strategy, broker, instrument, side);
